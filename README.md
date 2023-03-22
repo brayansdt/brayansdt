@@ -2,7 +2,7 @@
 
 
 # About Me
-- 👀  I am Bryan,  Staff software engineer @ immutable.
+- 👀  I am Bryan,  Staff software engineer @[immutable](https://github.com/immutable).
 - 👨‍💻 Passion for building high-performance applications using Go (Golang) and leveraging the power of the AWS cloud platform.
 - 💛 Huge fan of crypto, particularly Ethereum and Bitcoin.
 - 🌱 When I'm not coding, you can usually find me reading up on the latest developments in the crypto space or tinkering with new tech.
